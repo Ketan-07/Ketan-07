@@ -147,8 +147,8 @@ A comprehensive repository documenting my journey through Data Science and Machi
 
 # 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 📧 Email: ketanshaw763@gmail.com(mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/ketanshaw763/
 * 🌐 Portfolio: https://your-portfolio.com
 
 ---
