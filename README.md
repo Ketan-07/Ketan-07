@@ -96,9 +96,6 @@ A collection of programming solutions, algorithms, data structures, and coding p
 * Data Structures & Algorithms
 * Problem Solving
 * Python
-* C++
-* Java
-* SQL
 * Coding Interview Practice
 
 ---
