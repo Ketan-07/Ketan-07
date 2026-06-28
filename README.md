@@ -1,38 +1,158 @@
-# 👋 Hi, I'm Ketan!
 
-I'm a passionate developer focused on building AI-powered applications, automation tools, and full-stack web solutions.
+# 👋 Hi, I'm Ketan Shaw
 
----
+### 🚀 AI/ML Engineer | GenAI Enthusiast 
 
-## 🚀 Featured Project
-
-### [AI Resume Analyzer](https://github.com/Ketan-07/ai-resume-analyzer)
-Analyze resumes against job descriptions using **Google Gemini 2.5 Flash AI**. Get match scores, ATS compatibility, skill gap analysis, and improvement suggestions — all from your browser.
-
-**[📂 View on GitHub](https://github.com/Ketan-07/ai-resume-analyzer)** · **Built with:** Django · Python · Bootstrap · Gemini AI · ReportLab
+I'm passionate about building intelligent applications using **Machine Learning**, **Generative AI**, and **Python**. I enjoy turning ideas into practical, scalable software while continuously learning new technologies in AI and backend development.
 
 ---
 
-## 🧰 Tech Stack
+# 💫 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?logo=google-gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+* 🤖 AI/ML & Generative AI Enthusiast
+* 🐍 Python Developer
+* 🎓 Computer Science Graduate (2025)
+* 🌱 Currently exploring LLMs, RAG, AI Agents, LangChain, LangGraph, and MLOps
+* 💡 Interested in building production-ready AI applications
+* 📈 Always learning and improving through hands-on projects
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketan-07&show_icons=true&theme=default)
+### Languages
+
+* Python
+* SQL
+
+### Frontend
+
+* React
+* HTML
+* CSS
+* Bootstrap
+
+### Backend
+
+* Django
+* Flask
+* FastAPI
+
+### Machine Learning & AI
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* XGBoost
+* LangChain
+* LangGraph
+* OpenAI API
+* Hugging Face
+* RAG
+* Vector Databases
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* VS Code
+* Postman
 
 ---
 
-## 📫 Let's Connect
+# 🚀 Featured Repositories
 
-- **GitHub:** [github.com/Ketan-07](https://github.com/Ketan-07)
+## 📄 DocChat-AI
+
+**An AI-powered document assistant built with Retrieval-Augmented Generation (RAG).**
+
+### Features
+
+* Upload PDF documents
+* Intelligent document-based conversations
+* Context-aware responses
+* Semantic search
+* Modern and responsive UI
+
+**Tech Stack:** Python • Django • LangChain • ChromaDB • OpenAI API
+
+---
+
+## 💻 Programming Repository
+
+A collection of programming solutions, algorithms, data structures, and coding practice across multiple languages.
+
+### Includes
+
+* Data Structures & Algorithms
+* Problem Solving
+* Python
+* C++
+* Java
+* SQL
+* Coding Interview Practice
+
+---
+
+## 📊 Data Science Learning Repository
+
+A comprehensive repository documenting my journey through Data Science and Machine Learning.
+
+### Covers
+
+* Python for Data Science
+* NumPy & Pandas
+* Data Visualization
+* Statistics
+* Feature Engineering
+* Data Preprocessing
+* Machine Learning
+* Deep Learning
+* Model Evaluation
+* End-to-End ML Projects
+
+---
+
+# 🎯 Current Focus
+
+* Large Language Models (LLMs)
+* AI Agents
+* RAG Applications
+* LangGraph
+* MCP
+* MLOps
+* Docker
+* Cloud Deployment
+* Production AI Systems
+
+---
+
+# 📈 GitHub Goals
+
+* Build impactful AI applications
+* Contribute to Open Source
+* Learn scalable AI architectures
+* Share knowledge through projects and documentation
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🌐 Portfolio: https://your-portfolio.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to explore the repositories, leave a ⭐, or connect with me. I'm always open to learning, collaborating, and discussing AI, Machine Learning, and software development.
