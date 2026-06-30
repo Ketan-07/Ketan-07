@@ -146,7 +146,7 @@ A comprehensive repository documenting my journey through Data Science and Machi
 
 * 📧 Email: ketanshaw763@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/ketanshaw763/
-* 🌐 Portfolio: https://your-portfolio.com
+* 🌐 Portfolio: [https://your-portfolio.com](https://ketan-07.github.io/Portfolio/)
 
 ---
 
