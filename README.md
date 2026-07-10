@@ -142,6 +142,30 @@ A comprehensive repository documenting my journey through Data Science and Machi
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ketan-07&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ketan-07&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-07&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan-07&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ketan-07&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 # 📫 Connect With Me
 
 * 📧 Email: ketanshaw763@gmail.com
