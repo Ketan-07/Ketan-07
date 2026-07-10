@@ -157,9 +157,6 @@ A comprehensive repository documenting my journey through Data Science and Machi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan-07&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Ketan-07"/>
-</p>
 ---
 
 # 📫 Connect With Me
