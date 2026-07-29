@@ -99,10 +99,6 @@ A comprehensive repository documenting my journey through Data Science and Machi
 ---
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketan-07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ketan-07&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
