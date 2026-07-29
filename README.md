@@ -105,7 +105,7 @@ A comprehensive repository documenting my journey through Data Science and Machi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan-07&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
-# 📫 Connect With Me
+## 📫 Connect With Me
 * 📧 Email: ketanshaw763@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/ketanshaw763/
 * 🌐 Portfolio: [https://your-portfolio.com](https://ketan-07.github.io/Portfolio/)
@@ -116,5 +116,5 @@ A comprehensive repository documenting my journey through Data Science and Machi
   <img src="https://raw.githubusercontent.com/Ketan-07/Ketan-07/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake-light"/>
 </p>
 ---
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 If you find my projects useful, feel free to explore the repositories, leave a ⭐, or connect with me. I'm always open to learning, collaborating, and discussing AI, Machine Learning, and software development.
