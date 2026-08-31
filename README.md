@@ -136,14 +136,6 @@ A comprehensive repository documenting my Data Science and Machine Learning jour
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan-07&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 📧 **Email:** ketanshaw763@gmail.com
